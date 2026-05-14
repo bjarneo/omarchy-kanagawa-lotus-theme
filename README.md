@@ -2,6 +2,8 @@
 
 A light-mode theme for [Omarchy](https://github.com/basecamp/omarchy), based on the [Kanagawa Lotus](https://github.com/rebelot/kanagawa.nvim) palette (slightly modified).
 
+Dark-mode counterpart: [omarchy-kanagawa-dragon-theme](https://github.com/bjarneo/omarchy-kanagawa-dragon-theme).
+
 ![Preview](preview.png)
 ![Preview](preview2.png)
 
